@@ -1,2 +1,2 @@
 # Quiz-game
-pactice the #c Quiz game
+practice the #c Quiz game
